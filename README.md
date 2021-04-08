@@ -1,1 +1,1 @@
-# Bigdata-competition_COMPAS
+# BigData-Competition_COMPAS
